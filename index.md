@@ -1,1 +1,1 @@
-testing 1 2 3
+index.md is must exist, even if github is serving index.html
