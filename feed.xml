@@ -4,11 +4,11 @@
     <title>Anjuna Global - Airline general sales agent (GSA) and aviation consulting services serving airports and airlines around the world.</title>
     <description>Airline general sales agent (GSA) and aviation consulting services serving airports and airlines around the world.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Mar 2023 18:07:31 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Mar 2023 18:07:31 +0100</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <link>https://anjuna.global/</link>
+    <atom:link href="https://anjuna.global/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Mar 2021 20:09:09 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Mar 2021 20:09:09 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
   </channel>
 </rss>
